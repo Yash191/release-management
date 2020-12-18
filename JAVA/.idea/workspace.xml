@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9c45e258-61f3-4316-894f-5710a5dcb833" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZvOr65477qGJKg2dbLGx50Bedi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="JAVA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c45e258-61f3-4316-894f-5710a5dcb833" name="Default Changelist" comment="" />
+      <created>1585716300082</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585716300082</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="45" key="#Project_Structure" timestamp="1586501861236">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="45" key="#Project_Structure/0.0.1366.768@0.0.1366.768" timestamp="1586501861236" />
+    <state x="274" y="45" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586420728888">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="274" y="45" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1586420728888" />
+    <state x="146" y="91" key="#com.intellij.ide.util.MemberChooser" timestamp="1586590834789">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="146" y="91" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1586590834789" />
+    <state x="825" y="275" width="398" height="221" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1586504811164">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="825" y="275" width="398" height="221" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.768@0.0.1366.768" timestamp="1586504811164" />
+    <state x="413" y="134" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586584925583">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="413" y="134" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.768@0.0.1366.768" timestamp="1586584925583" />
+    <state width="1323" height="203" key="GridCell.Tab.0.bottom" timestamp="1586597648993">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="203" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1586597648993" />
+    <state width="1323" height="203" key="GridCell.Tab.0.center" timestamp="1586597648993">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="203" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1586597648993" />
+    <state width="1323" height="203" key="GridCell.Tab.0.left" timestamp="1586597648993">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="203" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1586597648993" />
+    <state width="1323" height="203" key="GridCell.Tab.0.right" timestamp="1586597648993">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="203" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1586597648993" />
+    <state width="637" height="238" key="GridCell.Tab.1.bottom" timestamp="1586508173957">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="637" height="238" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1586508173957" />
+    <state width="637" height="238" key="GridCell.Tab.1.center" timestamp="1586508173957">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="637" height="238" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1586508173957" />
+    <state width="637" height="238" key="GridCell.Tab.1.left" timestamp="1586508173957">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="637" height="238" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1586508173957" />
+    <state width="637" height="238" key="GridCell.Tab.1.right" timestamp="1586508173957">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="637" height="238" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1586508173957" />
+    <state x="391" y="211" key="com.intellij.ide.util.TipDialog" timestamp="1586757553668">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="391" y="211" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1586757553668" />
+    <state x="65" y="10" key="new project wizard" timestamp="1586757647559">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="65" y="10" key="new project wizard/0.0.1366.768@0.0.1366.768" timestamp="1586757647559" />
+    <state x="425" y="10" key="refactoring.ChangeSignatureDialog" timestamp="1586413981572">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="425" y="10" key="refactoring.ChangeSignatureDialog/0.0.1366.768@0.0.1366.768" timestamp="1586413981572" />
+    <state x="339" y="172" key="run.anything.popup" timestamp="1586594859022">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="339" y="172" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1586594859022" />
+    <state x="4" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1586500593324">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="4" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1586500593324" />
+  </component>
+</project>
